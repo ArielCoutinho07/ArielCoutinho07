@@ -16,13 +16,6 @@ Sou estudante de Engenharia de Software apaixonado por tecnologia, programação
 Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web, lógica de programação, banco de dados e desenvolvimento backend.
 
 🎯 Objetivo: Conquistar minha primeira oportunidade como Estagiário ou Desenvolvedor Júnior.
-## 👾 My Contribution Snake
-
-## 🐍 My Contribution Snake
-
-<picture>
-  https://raw.githubusercontent.com/ArielCoutinho07/ArielCoutinho07/output/github-contribution-grid-snake.svg
-</picture>
 
 ---
 
