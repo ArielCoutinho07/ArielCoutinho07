@@ -88,8 +88,13 @@ Site responsivo apresentando projetos e habilidades.
 
 ## 🎮 Atualmente
 
-```txt
+
 🎓 Engenharia de Software
 💻 Estudando Java e Desenvolvimento Web
 🚀 Construindo projetos para portfólio
 🎯 Em busca da primeira oportunidade na área
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
