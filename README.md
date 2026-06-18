@@ -18,12 +18,11 @@ Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web, 
 🎯 Objetivo: Conquistar minha primeira oportunidade como Estagiário ou Desenvolvedor Júnior.
 ## 👾 My Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArielCoutinho07/ArielCoutinho07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArielCoutinho07/ArielCoutinho07/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Streak" src="https://raw.githubusercontent.com/ArielCoutinho07/ArielCoutinho07/output/github-contribution-grid-snake.svg">
-</picture>
+## 🐍 My Contribution Snake
 
+<picture>
+  https://raw.githubusercontent.com/ArielCoutinho07/ArielCoutinho07/output/github-contribution-grid-snake.svg
+</picture>
 
 ---
 
