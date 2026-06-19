@@ -91,3 +91,5 @@ Site responsivo apresentando projetos e habilidades.
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
+
+<img src="https://media.tenor.com/6kK6jQf4d6QAAAAC/buzz-lightyear-toy-story.gif" width="400">
