@@ -87,9 +87,12 @@ Site responsivo apresentando projetos e habilidades.
 🚀 Construindo projetos para portfólio
 🎯 Em busca da primeira oportunidade na área
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN4eW5kYzR1Z2F4c3A4d3N6dW5uNnA2d2k4eDRxZzJ6eWQ1YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="500">
+</p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
-<img src="https://media.tenor.com/6kK6jQf4d6QAAAAC/buzz-lightyear-toy-story.gif" width="400">
